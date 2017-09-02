@@ -37,6 +37,7 @@ public class TopicManager {
         return list;
     }
     public static void main(){
+        System.out.println("hello word");
 
     }
 
