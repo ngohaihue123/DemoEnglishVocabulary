@@ -36,5 +36,9 @@ public class TopicManager {
         }
         return list;
     }
+    public static void main(){
+
+    }
+
 
 }
